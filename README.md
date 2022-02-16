@@ -12,8 +12,9 @@ If you have not *installed* the dependency tracker by configuring it in the syst
 `deps -update`
 However, it is recommended to just add the dependency tracker to a pre-configured path.
 
-Once you run `deps -update` you should now have a new libraries directory populated with the dependency libraries:
-![image](https://user-images.githubusercontent.com/36322006/154353596-33e0efb9-0e60-4364-ba50-1ec07e76213b.png)
+Once you run `deps -update` you should now have a new libraries directory populated with the dependency libraries, and should look like this:
+
+<img src="https://user-images.githubusercontent.com/36322006/154353596-33e0efb9-0e60-4364-ba50-1ec07e76213b.png" width=40% height=40%>
 
 # Build
 
