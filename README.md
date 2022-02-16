@@ -12,6 +12,9 @@ If you have not *installed* the dependency tracker by configuring it in the syst
 `deps -update`
 However, it is recommended to just add the dependency tracker to a pre-configured path.
 
+Once you run `deps -update` you should now have a new libraries directory populated with the dependency libraries:
+![image](https://user-images.githubusercontent.com/36322006/154353596-33e0efb9-0e60-4364-ba50-1ec07e76213b.png)
+
 # Build
 
 Make sure you have [MinGW64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.2.0-9.0.0-msvcrt-r6/winlibs-x86_64-posix-seh-gcc-11.2.0-mingw-w64-9.0.0-r6.7z) installed, and are running the 64bit version (this build script is setup for the 64bit static libraries) 
