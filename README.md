@@ -22,4 +22,6 @@ Make sure you have [MinGW64](https://github.com/brechtsanders/winlibs_mingw/rele
 
 You'll also need to make sure the MinGW bin path is configured in the windows environment variables. [See here how to configure](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)#to-add-a-path-to-the-path-environment-variable)
 
+<img src="https://user-images.githubusercontent.com/36322006/154355912-9f82fcb8-4ab1-46a6-b0ba-c5651d250376.png" width=70%>
+
 Once everything is setup, go ahead and run `build.bat`
