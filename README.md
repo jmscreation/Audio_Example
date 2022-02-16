@@ -7,8 +7,10 @@ This is an example program for the libaudio wrapper library
 
 First you'll need to download the required libraries in order to compile. To automate this process, you'll need to download and compile the -> [Dependency Tracker](https://github.com/jmscreation/dependency-tracker)
 
-Once you have the dependency tracker compiled, you need to update the libraries in the current directory. The easiest way to do this is to copy the file into the repository, then run:
+Once you have the dependency tracker compiled and *git* installed, you need to update the libraries in this current repository.
+If you have not *installed* the dependency tracker by configuring it in the system path, *then you can* copy the file into the repository and run within the directory:
 `deps -update`
+However, it is recommended to just add the dependency tracker to a pre-configured path.
 
 # Build
 
